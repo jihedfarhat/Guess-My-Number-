@@ -1,4 +1,3 @@
-# Guess-My-Number-
 # Guess My Number!
 
 This project is a simple number guessing game implemented using HTML and JavaScript.
@@ -21,7 +20,7 @@ This project is a simple number guessing game implemented using HTML and JavaScr
 
 ## Preview
 
-![Preview](preview/preview.png)
+![Preview](preview.png)
 
 ## Getting Started
 
