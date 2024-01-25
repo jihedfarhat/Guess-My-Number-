@@ -4,6 +4,8 @@ This project is a simple number guessing game implemented using HTML and JavaScr
 <div>
 <a href ="https://guess-my-number-jihed.netlify.app" target ="_blank"> Play Now </a>
 </div>
+
+<div>
 ## How to Play
 
 1. Open the `index.html` file in your web browser.
@@ -12,6 +14,7 @@ This project is a simple number guessing game implemented using HTML and JavaScr
 4. Click the "Check!" button to check if your guess is correct.
 5. The game will provide feedback on whether your guess is too high or too low.
 6. Keep guessing until you correctly guess the number.
+</div>
 
 ## Features
 
