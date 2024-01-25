@@ -9,7 +9,8 @@
     This project is a simple number guessing game implemented using HTML and JavaScript.
   </p>
   <div>
-        <a href="https://guess-my-number-jihed.netlify.app" target="_blank">Play Now</a>
+        <a href="https://guess-my-number-jihed.netlify.app" target="_blank">  <img src="preview.png" alt="Preview" width = "50px">
+</a>
 
   </div>
 
