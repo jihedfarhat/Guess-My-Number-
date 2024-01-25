@@ -2,27 +2,6 @@
 <html>
 <head>
   <link rel="stylesheet" href="styles.css">
-  <style>
-    h1 {
-  color: #333;
-  font-size: 24px;
-}
-
-h2 {
-  color: #777;
-  font-size: 20px;
-}
-
-a {
-  color: #007bff;
-  text-decoration: none;
-}
-
-p {
-  color: #555;
-  font-size: 16px;
-}
-  </style>
 </head>
 <body>
   <h1>Guess My Number!</h1>
