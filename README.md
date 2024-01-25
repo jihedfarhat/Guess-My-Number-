@@ -1,40 +1,65 @@
-# Guess My Number!
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    h1 {
+  color: #333;
+  font-size: 24px;
+}
 
-This project is a simple number guessing game implemented using HTML and JavaScript.
-<div>
-<a href ="https://guess-my-number-jihed.netlify.app" target ="_blank"> Play Now </a>
-</div>
+h2 {
+  color: #777;
+  font-size: 20px;
+}
 
-<div>
-## How to Play
+a {
+  color: #007bff;
+  text-decoration: none;
+}
 
-1. Open the `index.html` file in your web browser.
-2. The game will generate a random number between 1 and 20.
-3. Enter your guess in the input field provided.
-4. Click the "Check!" button to check if your guess is correct.
-5. The game will provide feedback on whether your guess is too high or too low.
-6. Keep guessing until you correctly guess the number.
-</div>
+p {
+  color: #555;
+  font-size: 16px;
+}
+  </style>
+</head>
+<body>
+  <h1>Guess My Number!</h1>
+  <p>
+    This project is a simple number guessing game implemented using HTML and JavaScript.
+    <a href="https://guess-my-number-jihed.netlify.app" target="_blank">Play Now</a>
+  </p>
 
-## Features
+  <h2>How to Play</h2>
+  <ol>
+    <li>Open the <code>index.html</code> file in your web browser.</li>
+    <li>The game will generate a random number between 1 and 20.</li>
+    <li>Enter your guess in the input field provided.</li>
+    <li>Click the "Check!" button to check if your guess is correct.</li>
+    <li>The game will provide feedback on whether your guess is too high or too low.</li>
+    <li>Keep guessing until you correctly guess the number.</li>
+  </ol>
 
-- Random number generation between 1 and 20.
-- Feedback on whether the guess is too high or too low.
-- Score tracking to keep track of the number of guesses.
-- Highscore tracking to keep track of the best score.
+  <h2>Features</h2>
+  <ul>
+    <li>Random number generation between 1 and 20.</li>
+    <li>Feedback on whether the guess is too high or too low.</li>
+    <li>Score tracking to keep track of the number of guesses.</li>
+    <li>Highscore tracking to keep track of the best score.</li>
+  </ul>
 
-## Preview
+  <h2>Preview</h2>
+  <img src="preview.png" alt="Preview">
 
-![Preview](preview.png)
+  <h2>Getting Started</h2>
+  <ol>
+    <li>Clone the repository: <code>git clone https://github.com/your-username/guess-my-number.git</code></li>
+    <li>Open the project folder.</li>
+    <li>Open <code>index.html</code> in your preferred web browser.</li>
+  </ol>
 
-## Getting Started
-
-To run this project locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/guess-my-number.git`
-2. Open the project folder.
-3. Open `index.html` in your preferred web browser.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+  <h2>License</h2>
+  <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+</body>
+</html>
