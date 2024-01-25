@@ -9,7 +9,7 @@
     This project is a simple number guessing game implemented using HTML and JavaScript.
   </p>
   <div>
-        <a href="https://guess-my-number-jihed.netlify.app" target="_blank">  <img src="preview.png" alt="Preview" width = "50px">
+        <a href="https://guess-my-number-jihed.netlify.app" target="_blank">  <img src="game.png" alt="Preview" width = "50px">
 </a>
 
   </div>
@@ -33,7 +33,7 @@
   </ul>
 
   <h2>Preview</h2>
-  <img src="preview.png" alt="Preview">
+  <img src="game.png" alt="Preview">
 
   <h2>Getting Started</h2>
   <ol>
