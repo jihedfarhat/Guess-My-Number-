@@ -21,7 +21,7 @@ This project is a simple number guessing game implemented using HTML and JavaScr
 
 ## Preview
 
-![Preview](preview.png)
+![Preview](preview/preview.png)
 
 ## Getting Started
 
