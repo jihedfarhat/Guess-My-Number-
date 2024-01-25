@@ -7,8 +7,11 @@
   <h1>Guess My Number!</h1>
   <p>
     This project is a simple number guessing game implemented using HTML and JavaScript.
-    <a href="https://guess-my-number-jihed.netlify.app" target="_blank">Play Now</a>
   </p>
+  <div>
+        <a href="https://guess-my-number-jihed.netlify.app" target="_blank">Play Now</a>
+
+  </div>
 
   <h2>How to Play</h2>
   <ol>
