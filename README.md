@@ -1,7 +1,7 @@
 # Guess My Number!
 
 This project is a simple number guessing game implemented using HTML and JavaScript.
-
+<a href ="https://guess-my-number-jihed.netlify.app"> Play Now </a>
 ## How to Play
 
 1. Open the `index.html` file in your web browser.
